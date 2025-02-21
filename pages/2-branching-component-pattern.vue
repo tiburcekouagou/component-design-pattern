@@ -4,7 +4,7 @@
   <div>
     <PageHeading :number="1">Branching Component Pattern</PageHeading>
     <div class="flex gap-3">
-      <GithubCardBefore username="tiburcekouagou" />
+      <GithubCardAfter username="tiburcekouagou" />
     </div>
   </div>
 </template>
